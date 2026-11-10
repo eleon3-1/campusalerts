@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138153419864",
+    "project_id": "campus-alerts-f8daf",
+    "storage_bucket": "campus-alerts-f8daf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138153419864:android:8a46841fd428bf5187d62d",
+        "android_client_info": {
+          "package_name": "com.example.campusalerts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZncvVgMcYkJ8kW_nYeZYzhNXG9ExhHpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
